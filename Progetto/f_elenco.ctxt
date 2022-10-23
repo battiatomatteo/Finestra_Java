@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=f_elenco
+comment1.params=
+comment1.target=f_elenco()
+comment2.params=
+comment2.target=void\ setPos()
+comment3.params=
+comment3.target=void\ aggElem()
+comment4.params=
+comment4.target=void\ creazBott()
+comment5.params=
+comment5.target=void\ creazLabel()
+comment6.params=
+comment6.target=void\ creazTest()
+comment7.params=
+comment7.target=void\ setFrame()
+comment8.params=e
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=9

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=f_visual
+comment1.params=st2
+comment1.target=f_visual(java.util.ArrayList)
+comment2.params=
+comment2.target=void\ creazTa()
+comment3.params=
+comment3.target=void\ setPos()
+comment4.params=
+comment4.target=void\ aggElem()
+comment5.params=
+comment5.target=void\ creazLabel()
+comment6.params=
+comment6.target=void\ setFrame()
+comment7.params=
+comment7.target=void\ mostra()
+numComments=8

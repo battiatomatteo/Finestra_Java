@@ -1,2 +1,2 @@
-# Finestra-_Java
+# Finestra_Java
 Creazione di una finestra in Java
