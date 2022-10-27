@@ -3,3 +3,4 @@ Sono presenti commenti per rendere più comprensibile il codice.
 # Creazione di una finestra in Java:
 Questa finestra mi permette di prenotare un volo aereo inserendo il numero del volo, orario partenza e arrivo, compagnia
 e se si desidera una descrizione.
+OBIETTIVO DEL PROGETTO: salvare in un file .txt i dati inseriti da un utente.
