@@ -1,12 +1,6 @@
-----------------------------------------------------------------------------------
-******** File README del progetto ********    Qui dovresti descrivere il progetto.
-Chi legge questo file, pur non sapendo nulla del progetto, dovrebbe ottenere tutte
-le informazioni di cui ha bisogno. Probabilmente le informazioni essenziali sono:
-----------------------------------------------------------------------------------
 
-NOME DEL PROGETTO:
-OBIETTIVO DEL PROGETTO
-VERSIONE oppure DATA:
+NOME DEL PROGETTO: Prenotazione volo
+OBIETTIVO DEL PROGETTO: salvare in un file .txt i dati inseriti da un utente.
 COME AVVIARE IL PROGETTO:
-AUTORI:
-ISTRUZIONI PER L'UTENTE:
+AUTORI: @Baddy2904
+ISTRUZIONI PER L'UTENTE: se l'immagine dell'icona della finestra non si vede cambiare il percorso del file
