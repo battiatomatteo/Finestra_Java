@@ -25,6 +25,3 @@ Si consiglia di organizzare il progetto con le seguenti cartelle:
 - `bin` → Per i file compilati.
 - `data` → Per il file `.txt` contenente le prenotazioni.
 
----
-
-Se vuoi aggiungere altre informazioni o personalizzarlo, fammelo sapere! 🚀
